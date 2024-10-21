@@ -50,6 +50,10 @@ class Heap:
                 queue.append(node.right)
 
         print(nodes)
+    
+    def min_heep_tree_construction(self):
+        pass
+
 
 
 if __name__ == "__main__":
